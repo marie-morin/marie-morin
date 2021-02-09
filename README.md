@@ -61,9 +61,6 @@ Welcome to my crib !
 <b/>
 
 **My GitHub Stats 📈**
-
-<br />
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marie-morin&show_icons=true)  
 
 <details>
