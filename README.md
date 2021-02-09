@@ -16,8 +16,8 @@ Welcome to my crib !
 - 🌱 I’m currently learning ReactJs,
 - 🔭 I’m currently working on my portfolio,
 - 👯 I’m looking to collaborate with a cool and dynamic company,
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/marie-morin-dev/)
-- 📫 How to reach me: [mariemorin19@gmail.com](mariemorin19@gmail.com);
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/marie-morin-dev/),
+- 📫 How to reach me: mariemorin19@gmail.com,
 - ⚡ Fun fact: I could eat Sauerkraut everyday !
 - 🎯 2021 Goals :
   -   Land an awesome job
