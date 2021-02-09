@@ -43,6 +43,9 @@ Welcome to my crib !
 
 ## My GitHub Stats 📈 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=marie-morin)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
 </a>
