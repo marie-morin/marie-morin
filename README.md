@@ -1,10 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Marie](https://www.linkedin.com/in/marie-morin-dev/) ! ![Profile views](https://gpvc.arturio.dev/marie-morin)  
 
 
-I am a passionate self-taught Full Stack Web Developer 🚀 from Nantes, France.
-
-Since june 2020, I've been living and breathing web development.
-
+I am a passionate self-taught Full Stack Web Developer 🚀 from Nantes, France. <br/>
+Since june 2020, I've been living and breathing web development.<br/>
 Welcome to my crib !
 
 <br />
@@ -21,6 +19,8 @@ Welcome to my crib !
   -   Land an awesome job
   -   Contributing to Open Source projects
   -   Start learning chinese 🇨🇳
+
+<br/>
 
 **Languages and Tools :**
 
@@ -39,7 +39,7 @@ Welcome to my crib !
 <img align="left" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Wordpress" width="30px" src="https://avatars2.githubusercontent.com/u/276006?s=200&v=4" />
+<img align="left" alt="Wordpress" width="30px" src="https://avatars2.githubusercontent.com/u/276006?s=200&v=4" /> <br/>
 
 <br/>
 <br/>
@@ -57,7 +57,6 @@ Welcome to my crib !
 
 </details>
 
-<br />
 <p align="center">
-### Show some ❤️ by starring some of the repositories!
+Show some ❤️ by starring some of the repositories!
 </p>
