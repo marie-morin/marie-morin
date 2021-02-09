@@ -1,10 +1,14 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Marie](https://www.linkedin.com/in/marie-morin-dev/) ! ![Profile views](https://gpvc.arturio.dev/marie-morin)  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Marie](https://www.linkedin.com/in/marie-morin-dev/) ! ![Profile views](https://gpvc.arturio.dev/marie-morin) [![GitHub marie-morin](https://img.shields.io/github/followers/marie-morin?label=follow&style=social)](https://github.com/marie-morin)
 
 
 I am a passionate self-taught Full Stack Web Developer 🚀 from Nantes, France. <br/>
 Since june 2020, I've been living and breathing web development.<br/>
 Welcome to my crib !
+<br />
 
+[![Linkedin: marie-morin-dev](https://img.shields.io/badge/-mariemorindev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marie-morin-dev/)](https://www.linkedin.com/in/marie-morin-dev/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+<br />
 <br />
 
 **Talking about Personal Stuffs :**
@@ -53,6 +57,8 @@ Welcome to my crib !
 
 <br/>
 <br/>
+<br/>
+<b/>
 
 **My GitHub Stats 📈**
 
@@ -68,5 +74,5 @@ Welcome to my crib !
 </details>
 
 <p align="center">
-Show some ❤️ by starring some of the repositories!
+Show some ❤️ by following!
 </p>
