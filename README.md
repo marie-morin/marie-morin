@@ -44,6 +44,16 @@ Welcome to my crib !
 <br/>
 <br/>
 
+**Keep in touch 🌎**
+
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />](https://www.linkedin.com/in/marie-morin-dev/)
+[<img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />](https://github.com/marie-morin)
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" />](https://twitter.com/@Itsmamamrn11)
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />](mariemorin19@gmail.com)
+
+<br/>
+<br/>
+
 **My GitHub Stats 📈**
 
 <br />
