@@ -43,56 +43,16 @@ Welcome to my crib !
 
 ## My GitHub Stats 📈 
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marie-morin&show_icons=true)  
 
+<details>
+  <summary>👇🏻 See more</summary>
 
-<div align="left">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marie-morin)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-```
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
+</details
 
 
-</div>
-
-
-
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
-</a>
-
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
-</a>
 
 <div align="center">
 
