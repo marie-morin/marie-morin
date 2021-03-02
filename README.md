@@ -13,8 +13,8 @@ Welcome to my crib !
 
 **Talking about Personal Stuffs :**
 
-- 🌱 I’m currently learning ReactJs,
-- 🔭 I’m currently working on my portfolio,
+- 🌱 I’m currently learning PHP and Symfony,
+- 🖥 You can visit my portfolio [here](https://marie-morin.me/),
 - 👯 I’m looking to collaborate with a cool and dynamic company,
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/marie-morin-dev/),
 - 📫 How to reach me: mariemorin19@gmail.com,
